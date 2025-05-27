@@ -1,4 +1,4 @@
-# NetworkSubspaceRegression
+# School Conflict Data for Network Subspace Regression
 
 This is the data set used in the paper:  Linear regression and its inference on noisy network-linked data. Journal of the Royal Statistical Society: Series B, 2022.
 
@@ -33,3 +33,6 @@ The lcc.list contains the 60 schools as the raw.list, but each of them focuses o
 37070-0001-Data.rda: the original raw data provided by the authors
 
 37070-0001-Codebook-ICPSR.pdf: the questionnaire and codebook for the attributes
+
+
+The method in our paper is available in R package NetworkReg on CRAN.
