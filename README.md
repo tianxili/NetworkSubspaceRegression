@@ -3,7 +3,7 @@
 This is the data set used in the paper:  Linear regression and its inference on noisy network-linked data. Journal of the Royal Statistical Society: Series B, 2022.
 
 It is a data set about a school conflict study as introduced in 
-Paluck, E.L., Shepherd, H. & Aronow, P.M. (2016) Changing climates of conflict: a social network experiment in56 schools. Proceedings of the National Academy of Sciences, 113, 566–571.
+Paluck, E.L., Shepherd, H. & Aronow, P.M. (2016) Changing climates of conflict: a social network experiment in 56 schools. Proceedings of the National Academy of Sciences, 113, 566–571.
 
 The data set contains students' social relations (spending time together, or best friend), as well as hundreds of attributes based on questionnaires. The raw data set is available from the journal website of the original paper. The one we attached here is a processed version.
 
