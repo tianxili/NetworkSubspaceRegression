@@ -1,0 +1,54 @@
+Bibliography
+Changing Climates of Conflict: A Social Network Experiment in 56 Schools,
+New Jersey, 2012-2013
+
+This bibliography includes published and unpublished works that are related 
+to ICPSR study 37070. It includes works that are based on primary
+or secondary analysis of the data, or which describe or critique those
+data or the collection methodology. 
+
+If you publish a work or know of other works that are based on these data,
+please send the complete citation and name of the ICPSR study used to:
+icpsr-biblio-notify@umich.edu 
+
+
+1. Aronow, Peter M.; Cyrus, Samii, "Estimating average causal effects under
+general interference, with application to a social network experiment."
+Annals of Applied Statistics. 2017, 11, (4), 1912 - 1947. DOI: 10.1214/16-
+AOAS1005
+
+2. Callejas, Laura M.; Shepherd, "Conflict as a social status mobility
+mechanism in schools: A network approach." Social Psychology Quarterly.
+2020,. DOI: 10.1177/0190272519876936
+
+3. Chin, Alex; Eckles, Dean; Ugander, Johan, "Evaluating stochastic seeding
+strategies in networks." working paper. Jan 14, 2019.
+Full text: https://arxiv.org/pdf/1809.09561v2.pdf
+
+4. Gomila, R., "Logistic or linear? Estimating causal effects of
+experimental treatments on binary outcomes using regression analysis."
+Journal of Experimental Psychology. In Press 2020,. DOI: 10.1037/xge0000920
+Full text: https://arxiv.org/pdf/1809.09561v2.pdf
+
+5. Gomila, Robin; Shepherd, Hana; Paluck, Elizabeth L., "Network insiders
+and observers: Who can identify influential people?." Behavioral Public
+Policy. 2020,. DOI: 10.1017/bpp.2020.8
+Full text: https://arxiv.org/pdf/1809.09561v2.pdf
+
+6. Paluck, Elizabeth Levy; Shepherd, Hana; Aronow, Peter M., "Changing
+climates of conflict: A social network experiment in 56 schools."
+Proceedings of the National Academy of Sciences of the United States of
+America. Jan 19, 2016, 113, (3), 566 - 571. DOI: 10.1073/pnas.1514483113
+Full text: https://arxiv.org/pdf/1809.09561v2.pdf
+
+7. Paluck, Elizabeth Levy; Shepherd, Hana; Aronow, Peter M., "Correction
+for Paluck et al., Changing climates of conflict: A social network
+experiment in 56 schools." Proceedings of the National Academy of Sciences
+of the United States of America. Apr 10, 2018, 115, (15), E3598. DOI:
+10.1073/pnas.1804429115
+Full text: https://arxiv.org/pdf/1809.09561v2.pdf
+
+8. Shepherd, Hana; Lane, Jeffrey, "In the mix: Social integration and
+social media adoption." Social Science Research. Aug 2019, 2, 1 - 17. DOI:
+10.1016/j.ssresearch.2019.02.004
+Full text: https://arxiv.org/pdf/1809.09561v2.pdf
