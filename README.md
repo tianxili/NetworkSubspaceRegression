@@ -29,7 +29,6 @@ A: union of four (symmetrized) networks of Wave 1-1, "spend-time" and "best-frie
 The lcc.list contains the 60 schools as the raw.list, but each of them focuses only on the largest connected component, extracted on the A network
 
 
-DataProcessing-all.R: the R script to get the above data from the raw data.
 
 37070-0001-Data.rda: the original raw data provided by the authors
 
