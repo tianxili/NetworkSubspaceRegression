@@ -35,4 +35,4 @@ The lcc.list contains the 60 schools as the raw.list, but each of them focuses o
 37070-0001-Codebook-ICPSR.pdf: the questionnaire and codebook for the attributes
 
 
-The method in our paper is available in R package NetworkReg on CRAN.
+The method in our paper is available in R package NetworkReg on CRAN. If you use this processed data set, please include a references to the papers above.
